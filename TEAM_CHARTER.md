@@ -29,7 +29,7 @@
 By typing our names below, we agree to uphold these standards throughout the 5-day sprint: 
 
 * Chepngeno Risper (GitHub: chepngeno-rhispher) - SIGNED
-* 2 : ______________________
+* 2 : GAI JOK GAI - SIGNED
 * 3 : ______________________
 * 4 : ______________________
 * 5 : ______________________
