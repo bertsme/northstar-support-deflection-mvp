@@ -31,5 +31,5 @@ By typing our names below, we agree to uphold these standards throughout the 5-d
 * Chepngeno Risper (GitHub: chepngeno-rhispher) - SIGNED
 * 2 : GAI JOK GAI - SIGNED
 * 3 : Leah Atieno (GitHub: LAJSol) - SIGNED
-* 4 : ______________________
+* 4 : JOHN ROBERTS (github: bertsme) - signed
 * 5 : ______________________
