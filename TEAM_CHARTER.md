@@ -21,6 +21,12 @@
 * **Commit Messaging Rule**: Every code change message must strictly follow the required format: <type>: <what changed> - <why it matters>. Generic titles are prohibited.
 
 ### 4. Conflict Resolution & Inactivity Escalation
+Disagreements are first discussed directly between the people involved. If not resolved, the whole team discusses it together and decides by majority vote.
+Disagreements are raised directly with the person involved first, respectfully, the same day they come up. If unresolved within a day, the whole team discusses it together. If still unresolved, it is escalated to the instructor or program coordinator.
+Trigger: a disagreement remains unresolved after direct discussion, or a teammate shows zero visible activity for two full days. 
+Step 1: the person involved, or the Board and Communications Lead for zero-activity cases, raises it directly with the person concerned the same day it is noticed. 
+Step 2: if unresolved within one day, it is raised to the whole team for group discussion. 
+Step 3: if still unresolved, it is escalated to the instructor or program coordinator.
 
 * **The 2-Day Inactivity Rule**: If any team member shows zero visible activity on the shared GitHub repository or project board for 2 consecutive days without prior notice, the team will immediately trigger the formal escalation path to the sprint supervisor.
 
